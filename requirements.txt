@@ -1,0 +1,4 @@
+stor
+pandas
+defopt
+plotly
